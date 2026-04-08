@@ -1,5 +1,7 @@
 ## LoFT: Long-Tailed Semi-Supervised Learning via Parameter-Efficient Fine-Tuning in Open-World Scenarios
 
+**Paper:** [arXiv:2509.09926 (PDF)](https://arxiv.org/pdf/2509.09926)
+
 ### Quick Start
 
 #### **1. Dataset Preparation**
@@ -92,6 +94,21 @@ tail -f output/test.log
 - **`output/`**: training logs and model checkpoints
 
 Please adjust this section to match your actual project structure.
+
+---
+
+### Citation
+
+If you use this code or our work, please cite:
+
+```bibtex
+@article{huang2025loft,
+  title={LoFT: Parameter-Efficient Fine-Tuning for Long-tailed Semi-Supervised Learning in Open-World Scenarios},
+  author={Huang, Zhiyuan and Chen, Jiahao and Liu, Yurou and Su, Bing},
+  journal={arXiv preprint arXiv:2509.09926},
+  year={2025}
+}
+```
 
 ---
 
