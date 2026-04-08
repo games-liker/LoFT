@@ -1,0 +1,2 @@
+dataset: "smallimagenet"
+root: "datasets/ImageNet64_127"
